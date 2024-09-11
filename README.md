@@ -38,3 +38,6 @@ path_provider: ^2.0.11
 encrypt: ^5.0.1
 permission_handler: ^10.2.0
 url _launcher: ^6.3.0
+
+# download for android
+http://cafebazaar.ir/app/?id=com.aishid.acountmanager&ref=share

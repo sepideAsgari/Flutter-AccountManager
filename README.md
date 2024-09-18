@@ -39,5 +39,13 @@ encrypt: ^5.0.1
 permission_handler: ^10.2.0
 url _launcher: ^6.3.0
 
+A practical mobile application designed to prevent forgetting user information (username and password) for various applications used daily. This can be useful for any user of social media, regardless of age and other personal conditions.
+
+This app helps you prevent forgetting login information for each application by storing the application name along with the username and password. Given the mental load on individuals, this app can be very practical and useful.
+
+To install and use this app, you can either use the Bazaar platform or use the web application  in the address below. Please note that due to issues related to sanctions, we are unable to upload the app to Google Play in Iran.
+
+http://aishid-accountmanager.ir/
+
 # download for android
 http://cafebazaar.ir/app/?id=com.aishid.acountmanager&ref=share

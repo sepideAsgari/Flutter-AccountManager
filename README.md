@@ -45,7 +45,7 @@ This app helps you prevent forgetting login information for each application by 
 
 To install and use this app, you can either use the Bazaar platform or use the web application  in the address below. Please note that due to issues related to sanctions, we are unable to upload the app to Google Play in Iran.
 
-http://aishid-accountmanager.ir/
+https://aishid-accountmanager.ir/
 
 # download for android
 http://cafebazaar.ir/app/?id=com.aishid.acountmanager&ref=share
